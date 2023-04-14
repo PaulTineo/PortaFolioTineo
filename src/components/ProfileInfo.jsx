@@ -38,10 +38,11 @@ function ProfileInfo() {
           </tr>
         </table>
       </div>
-
-      <button className="bg-blue-500 text-white font-bold py-2 px-4 rounded w-3/6 transition duration-500 hover:scale-110 ">
-        Descargar CV
-      </button>
+      <a href="@assets/CVPAULTINEO.pdf" download>
+        <button className="bg-blue-500 text-white font-bold py-2 px-4 rounded w-3/6 transition duration-500 hover:scale-110 ">
+          Descargar CV
+        </button>
+      </a>
     </div>
   );
 }

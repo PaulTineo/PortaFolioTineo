@@ -6,7 +6,7 @@ function Experiencia() {
   return (
     <div className="flex flex-col sm:flex-row gap-4 p-6 ">
       <div className=" sm:w-2/4 w-full p-3 mt-8">
-        <p className="text-center mb-3 font-Shadows text-4xl">EDUCACION</p>
+        <p className="text-center mb-3 font-Shadows text-4xl">EDUCACIÓN</p>
         <div className="flex flex-row gap-20 justify-center">
           <div className="sm:flex hidden">
             <Book />

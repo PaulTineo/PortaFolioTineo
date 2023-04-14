@@ -3,7 +3,7 @@ import Foto from "../assets/Profile.png";
 
 function Profile() {
   return (
-    <div className=" h-full bg-white rounded-md shadow-2xl sm:flex hidden hover:translate-y-12">
+    <div className=" h-full bg-white rounded-md shadow-2xl sm:flex hidden ">
       <img
         src={Foto}
         alt=""
