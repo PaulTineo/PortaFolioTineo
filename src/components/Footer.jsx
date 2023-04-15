@@ -2,7 +2,6 @@ import React from "react";
 import LogoFacebook from "../Icons/LogoFacebook";
 import LogoInstagram from "../Icons/LogoInstagram";
 import LogoLinkedin from "../Icons/LogoLinkedin";
-import LogoGitHub from "../Icons/LogoGitHub";
 import { Link } from "react-router-dom";
 import LogoWhatsapp from "../Icons/LogoWhatsapp";
 

@@ -36,10 +36,11 @@ function Experiencia() {
           </div>
           <div className="flex flex-col gap-6 font-Schibsted">
             <div className="bg-white sm:w-5/6 w-80 rounded-lg p-3 shadow-xl">
-              <p className="text-center font-bold">Programador FrontEnd</p>
-              <p> • Desarrollador de componentes que requiera el proyecto. </p>
+              <p className="text-center font-bold">Programador FrontEnd - LatamReady</p>
+              <p>• Desarrollador de componentes que requiera el proyecto. </p>
+              <p>• Integración de nuevas funcionalidades según los requerimientos.</p>
               <p>
-                • Experiencia de desarrollo con React.js, Redux Tolkit,
+                • Experiencia de desarrollo con React.js, Redux Toolkit,
                 JavaScript, HTML5, CSS3, SASS, Axios.
               </p>
               <p>
@@ -48,9 +49,10 @@ function Experiencia() {
               </p>
               <p>• Experiencia en Node.js para la creación de APIS.</p>
               <p>• Conocimientos en Git.</p>
+        
             </div>
             <div className="bg-white sm:w-5/6 w-80 rounded-lg p-3 shadow-xl">
-              <p className="text-center font-bold">Soporte Tecnico</p>
+              <p className="text-center font-bold">Soporte Tecnico - Cescorp</p>
               <p> • Recepción de tickets de incidencias de usuarios. </p>
               <p>• Soporte y actualización de Redes(VPN).</p>
               <p>• Preparación de equipos para los usuarios.</p>
