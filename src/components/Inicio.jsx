@@ -13,7 +13,6 @@ function Inicio() {
     <div
       className="flex gap-3 flex-col  h-full justify-center items-center text-white "
       id="div1"
-      ref={ref}
     >
       <h1 className="font-Shadows text-5xl text-center">Hola, me presento</h1>
 
