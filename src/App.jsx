@@ -10,7 +10,6 @@ import Proyectos from "./components/Proyectos";
 import { BrowserRouter } from "react-router-dom";
 
 function App(props) {
-
   return (
     <BrowserRouter>
       <body>
